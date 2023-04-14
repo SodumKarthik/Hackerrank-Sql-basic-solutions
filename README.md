@@ -1,0 +1,1 @@
+# Hackerrank-Sql-basic-solutions
